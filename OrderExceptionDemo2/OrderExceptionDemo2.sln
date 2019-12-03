@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderExceptionDemo2", "OrderExceptionDemo2\OrderExceptionDemo2.csproj", "{9A6C64FD-9406-43FF-8A1E-0684BB87055E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A6C64FD-9406-43FF-8A1E-0684BB87055E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6C64FD-9406-43FF-8A1E-0684BB87055E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6C64FD-9406-43FF-8A1E-0684BB87055E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6C64FD-9406-43FF-8A1E-0684BB87055E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2872B12-EF25-46EB-A531-4366A8189796}
+	EndGlobalSection
+EndGlobal

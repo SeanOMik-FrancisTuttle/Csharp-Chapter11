@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter11\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\netcoreapp3.0\SubscriptExceptionTest.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter11\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\netcoreapp3.0\SubscriptExceptionTest.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter11\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\netcoreapp3.0\SubscriptExceptionTest.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter11\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\netcoreapp3.0\SubscriptExceptionTest.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter11\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\netcoreapp3.0\SubscriptExceptionTest.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter11\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\netcoreapp3.0\SubscriptExceptionTest.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter11\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\netcoreapp3.0\SubscriptExceptionTest.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter11\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\netcoreapp3.0\SubscriptExceptionTest.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter11\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\netcoreapp3.0\SubscriptExceptionTest.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter11\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\netcoreapp3.0\SubscriptExceptionTest.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter11\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\netcoreapp3.0\SubscriptExceptionTest.pdb
